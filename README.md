@@ -1,6 +1,6 @@
 # MIT-Policy-Hackathon
 
-We am thrilled to share that our project, Mass-Passport, secured a spot in the top 3 finalists. Our focus is on enhancing healthcare access for newcomers in Massachusetts by addressing immigration challenges and overcoming system constraints. We propose a comprehensive approach that combines education, technology, and policy recommendations to create a more inclusive and efficient healthcare system.
+We are thrilled to share that our project, Mass-Passport, secured a spot in the top 3 finalists. Our focus is on enhancing healthcare access for newcomers in Massachusetts by addressing immigration challenges and overcoming system constraints. We propose a comprehensive approach that combines education, technology, and policy recommendations to create a more inclusive and efficient healthcare system.
 
 Our main technical solution is the Mass-Passport app, a QR-code based medical record system that integrates to popular ERMs, installs immediate AI translation, and provides readily available
 health sheet.
