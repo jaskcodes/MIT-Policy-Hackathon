@@ -6,3 +6,5 @@ Our main technical solution is the Mass-Passport app, a QR-code based medical re
 health sheet.
 
 [Click here to access the prototype of the app.](https://www.figma.com/proto/M0kogp6crv9EMP0PJoo0zl/Med-Webpage?type=design&node-id=2-3&t=QIvovPe7aFvCIDFY-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A3&mode=design)
+
+<img width="438" alt="Screenshot 2023-11-19 at 12 57 13 AM" src="https://github.com/jaskcodes/MIT-Policy-Hackathon/assets/111719180/3f2fb7a7-254f-476a-ac80-19a0fc49912d">
