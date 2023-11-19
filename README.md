@@ -1,4 +1,4 @@
-# MIT-Policy-Hackathon
+# MIT-Policy-Hackathon 2023
 
 ## Team: Los buenos de mosquitos
 - Yujie Jiang
